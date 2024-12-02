@@ -84,7 +84,7 @@ h1 {
   letter-spacing: -0.02em;
   text-transform: uppercase;
   text-align: center;
-  color: #2f2e41;
+  color: #3a3955;
   margin-bottom: 40px;
 }
 .card-title.last {
@@ -129,6 +129,13 @@ footer a {
   align-items: center;
   gap: 10px;
   white-space: nowrap;
+}
+
+.paragraph-1 {
+  margin: 20px 20px 10px 30px;
+}
+.paragraph-2 {
+  margin: 10px 20px;
 }
 
 @media (max-width: 768px) {
